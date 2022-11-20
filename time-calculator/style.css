@@ -1,0 +1,11 @@
+.show-time{
+  display: flex;
+  color: #100000;
+  margin-bottom:20px;
+}
+.time-class{
+  margin-top:50px;
+}
+.calc-container{
+  margin-left:50px;
+}
